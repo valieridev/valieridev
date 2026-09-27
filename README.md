@@ -13,10 +13,9 @@ Estou cursando **Técnico em Desenvolvimento de Software** 💻
 
 ### 📫 Me encontre por aqui
 
-[![Instagram](https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seuuser)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuuser)
-[![Gmail](https://img.shields.io/badge/Gmail-1E88E5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-3B82F6?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/seuid)
+[![Instagram](https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ph.valieri)
+[![Gmail](https://img.shields.io/badge/Gmail-1E88E5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrovalieri50@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-3B82F6?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/pedrosca1921)
 
 <br>
 
