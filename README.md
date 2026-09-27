@@ -7,7 +7,7 @@ Estou cursando **Técnico em Desenvolvimento de Software** 💻
 
 ### 🛠️ Stacks e Ferramentas
 
-![](https://skillicons.dev/icons?i=html,css,js,git,github)
+![](https://skillicons.dev/icons?i=html,css,js,react,java,springboot,php,c++,git,github)
 
 <br>
 
