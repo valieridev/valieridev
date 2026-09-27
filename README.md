@@ -1,6 +1,5 @@
 # Oiii! Eu sou o Pedro 👋
 
-<img align="right" src="https://your-image-url.com/foto.png" width="150" style="border-radius:50%">
 
 Estou cursando **Técnico em Desenvolvimento de Software** 💻
 
