@@ -19,7 +19,7 @@ Estou cursando **Técnico em Desenvolvimento de Software** 💻
 - 📦 Contribuído para: `0`
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="60%">
 
 ### 🔥 Linguagens Mais Usadas
 
