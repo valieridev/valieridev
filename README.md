@@ -1,4 +1,4 @@
-# Oiii! Eu sou o Pedro 👋
+# Ola! Eu sou o Pedro 👋
 
 
 Estou cursando **Técnico em Desenvolvimento de Software** 💻
