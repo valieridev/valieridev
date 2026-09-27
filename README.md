@@ -22,9 +22,7 @@ Estou cursando **Técnico em Desenvolvimento de Software** 💻
 
 ---
 
-<table>
-<tr>
-<td><img src="https://github-stats-extended.vercel.app/api?username=valieridev&show_icons=true&theme=tokyonight&hide_border=false&border_color=3b82f6&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="195" /></td>
-<td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=valieridev&layout=compact&theme=tokyonight&hide_border=false&border_color=3b82f6&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="195" /></td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=valieridev&show_icons=true&theme=tokyonight&hide_border=false&border_color=3b82f6&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" style="height:190px" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=valieridev&layout=compact&theme=tokyonight&hide_border=false&border_color=3b82f6&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" style="height:190px" />
+</p>
